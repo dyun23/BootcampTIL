@@ -11,3 +11,8 @@
 
 - [240430](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240430.md)
 </details>
+<details>
+<summary>Database</summary> 
+
+- [240502](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240502.md)
+</details>
