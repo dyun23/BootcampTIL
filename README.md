@@ -3,18 +3,22 @@
 <details>
 <summary>Linux</summary> 
 
-- [240429](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240429.md)
-- [240430](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240430.md)
+- [기본 명령어 (04.29)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240429.md)
+- [서비스 프로그램 명령어 (04.30)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240430_2.md)
+- [사용자 권한 (05.09)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240500_2.md)
 </details>
+
 <details>
 <summary>Network</summary> 
 
-- [240430](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240430.md)
-- [240508](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240508.md)
+- [네트워크 기초 및 IP (04.30)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240430.md)
+- [부하분산 (05.08)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240508.md)
+- [모니터링 시스템 (05.09)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240509.md)
 </details>
+
 <details>
 <summary>Database</summary> 
 
-- [240502](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240502.md)
-- [240508](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240508.md)
+- [DB 기초 및 설계, 정규화 (05.02)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240502.md)
+- [SQL 기초 (05.03)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240503.md)
 </details>
