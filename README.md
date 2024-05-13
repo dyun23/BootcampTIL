@@ -21,4 +21,6 @@
 
 - [DB 기초 및 설계, 정규화 (05.02)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240502.md)
 - [SQL 기초 (05.03)](https://github.com/dyun23/BootcampTIL/blob/master/1주차/240503.md)
+- [Master-Slave 구성 (05.08)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240508_2.md)
+- [성능 테스트, Cluster 구성 (05.10)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240510.md)
 </details>
