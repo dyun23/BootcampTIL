@@ -25,3 +25,13 @@
 - [성능 테스트, Cluster 구성 (05.10)](https://github.com/dyun23/BootcampTIL/blob/master/2주차/240510.md)
 - [Key, INDEX, Stored Procedure (05.13)](https://github.com/dyun23/BootcampTIL/blob/master/3주차/240513.md)
 </details>
+<details>
+<summary>Software Engineering</summary> 
+
+- [개발 절차 (05.16)](https://github.com/dyun23/BootcampTIL/blob/master/3주차/240516.md)
+</details>
+<details>
+<summary>Git</summary> 
+
+- [git 기본 명령어, Github (05.16)](https://github.com/dyun23/BootcampTIL/blob/master/3주차/240516_2.md)
+</details>
