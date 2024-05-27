@@ -38,5 +38,6 @@
 <details>
 <summary>JAVA</summary> 
 
-- [java 기초 및 객체 (05.23)](https://github.com/dyun23/BootcampTIL/blob/master/4주차/240523.md)
+- [Java 기초 및 객체 (05.23)](https://github.com/dyun23/BootcampTIL/blob/master/4주차/240523.md)
+- [Java 객체(접근 제어자, 상속, 생성자)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240527.md)
 </details>
