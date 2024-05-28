@@ -39,5 +39,6 @@
 <summary>JAVA</summary> 
 
 - [Java 기초 및 객체 (05.23)](https://github.com/dyun23/BootcampTIL/blob/master/4주차/240523.md)
-- [Java 객체(접근 제어자, 상속, 생성자)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240527.md)
+- [Java 객체(접근 제어자, 상속, 생성자) (5.27)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240527.md)
+- [인터페이스, 예외 처리, 스트림 (5.28)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240528.md)
 </details>
