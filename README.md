@@ -44,4 +44,5 @@
 - [스레드 (5.29)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240529.md)
 - [서블릿 (5.30)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240530.md)
 - [커넥션풀, 동시성제어, 세션 (5.31)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240531.md)
+- [Tomcat 부하분산, 컬렉션 (6.3)](https://github.com/dyun23/BootcampTIL/blob/master/6주차/240603.md)
 </details>
