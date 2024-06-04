@@ -40,9 +40,10 @@
 
 - [Java 기초 및 객체 (05.23)](https://github.com/dyun23/BootcampTIL/blob/master/4주차/240523.md)
 - [접근 제어자, 상속, 생성자 (5.27)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240527.md)
-- [인터페이스, 예외 처리, 스트림, 소켓 (5.28)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240528.md)
+- [인터페이스, 예외 처리, io스트림, 소켓 (5.28)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240528.md)
 - [스레드 (5.29)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240529.md)
 - [서블릿 (5.30)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240530.md)
 - [커넥션풀, 동시성제어, 세션 (5.31)](https://github.com/dyun23/BootcampTIL/blob/master/5주차/240531.md)
 - [Tomcat 부하분산, 컬렉션 (6.3)](https://github.com/dyun23/BootcampTIL/blob/master/6주차/240603.md)
+- [어노테이션, 람다식, 스트림 (6.4)](https://github.com/dyun23/BootcampTIL/blob/master/6주차/240603.md)
 </details>
