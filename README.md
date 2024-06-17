@@ -51,4 +51,14 @@
 <summary>Data Structure</summary> 
 
 - [스택, 단일 연결 리스트 (06.07)](https://github.com/dyun23/BootcampTIL/blob/master/6주차/240607.md)
+- [트리 (06.10)](https://github.com/dyun23/BootcampTIL/blob/master/7주차/240610.md)
+- [그래프 (06.11)](https://github.com/dyun23/BootcampTIL/blob/master/7주차/240611.md)
+
+</details>
+<details>
+<summary>Algorithm</summary>
+
+- [정렬 (06.13)](https://github.com/dyun23/BootcampTIL/blob/master/7주차/240613.md)
+- [A-Star 알고리즘 (최단거리) (06.14)](https://github.com/dyun23/BootcampTIL/blob/master/7주차/240614.md)
+
 </details>
